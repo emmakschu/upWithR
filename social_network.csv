@@ -1,0 +1,8 @@
+"id", "sex", "age", "site", "logins"
+1, "male", 24, "None", 0
+2, "female", 26, "Facebook", 20
+3, "male", 54, "Facebook", 2
+4, "female", 42, "Facebook", 7
+5, "male", 54, "None", 
+6, "female", 21, "Facebook", 3
+7, "female", , "None", 0
