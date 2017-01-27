@@ -20,3 +20,4 @@ sn.csv <- read.csv("social_network.csv")
 
 sn.csv
 str(sn.csv)
+
